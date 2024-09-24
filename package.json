@@ -1,0 +1,16 @@
+{
+  "name": "04_a_thermostat",
+  "version": "1.0.0",
+  "main": "thermostat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "jet": "^0.9.0-dev.12"
+  }
+}
